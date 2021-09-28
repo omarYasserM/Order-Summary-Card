@@ -44,8 +44,6 @@ button:hover {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ### Useful resources
 
 - MDN(https://developer.mozilla.org/en-US/docs/Web/CSS/transition) - This helped me with the transtion property so much! gonna keep using it.
@@ -55,7 +53,3 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 - Website - will be edited soon
 - Frontend Mentor - [@omarYasserM](https://www.frontendmentor.io/profile/omarYasserM)
 - linkedIn - [omar yasser](https://www.linkedin.com/in/omar-yasser-33525717a)
-
-```
-
-```
