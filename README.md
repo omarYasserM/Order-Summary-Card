@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Git hub repo: [Git hub](https://github.com/omarYasserM/Order-Summary-Card#the-challenge)
+- live solution: [Order summary](https://omaryasserm.github.io/Order-Summary-Card/)
 
 ### Built with
 
